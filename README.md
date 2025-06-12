@@ -44,7 +44,7 @@ A lightweight, reliable Windows batch script that prevents screensaver activatio
 ### 1. Download & Run
 ```bash
 # Method 1: Download the .bat file
-# Save as "ScreensaverPreventer.bat"
+# Save as "ScreenSaverPreventer.bat"
 
 # Method 2: Copy content and create file manually
 # Right-click in folder → New → Text Document → Rename to .bat
@@ -52,7 +52,7 @@ A lightweight, reliable Windows batch script that prevents screensaver activatio
 
 ### 2. Launch
 ```bash
-# Right-click ScreensaverPreventer.bat
+# Right-click ScreenSaverPreventer.bat
 # Select "Run as administrator" (recommended)
 ```
 
